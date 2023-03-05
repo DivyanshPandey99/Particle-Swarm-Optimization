@@ -20,7 +20,7 @@ In this way, the particles explore the solution space, moving towards better and
 
 ## Output
 
-![]()
+![](https://github.com/DivyanshPandey99/Particle-Swarm-Optimization/blob/master/output.png)
 
 ## References
 
