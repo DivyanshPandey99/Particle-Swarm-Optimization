@@ -18,6 +18,10 @@ Each particle in the simulation represents a possible solution to the problem. T
 
 In this way, the particles explore the solution space, moving towards better and better solutions. Eventually, they should converge on the location of the food, at which point the simulation will end.
 
+## Output
+
+![]()
+
 ## References
 
 [Particle swarm optimization algorithm: an overview - Wang, Tan and Liu](https://kpfu.ru/staff_files/F_1407356997/overview.pdf)
